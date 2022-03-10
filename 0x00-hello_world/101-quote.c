@@ -2,8 +2,8 @@
 #include <unistd.h>
 
 /**
- * main function
- * Return 1
+ * main - function
+ * Return: 1
  */
 int main(void)
 {
