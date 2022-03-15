@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
- * _putchar - writes the character c to stdout
- * @c: The character to print
- *
+ * main - writes the character c to stdout *
  * Return: On success 1.
  */
-int main()
+int main(void)
 {
 	char c[] = "_putchar";
 	int i;
